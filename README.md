@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boiwithjoii
-- 👀 I’m interested in programming and game dev
-- 🌱 I’m currently learning Godot
+- 👀 I’m interested in programming,open source,game dev
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
